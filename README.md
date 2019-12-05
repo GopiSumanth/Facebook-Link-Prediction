@@ -20,3 +20,7 @@ Data contains two columns source and destination eac edge in graph
 ### Performance metric for supervised learning:  
 - Both precision and recall is important so F1 score is good choice
 - Confusion matrix
+
+### Conclusion:  
+- For RF F1 score is 0.9241678239279553 
+- For GBDT F1 score is 0.9327770050996755
